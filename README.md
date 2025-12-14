@@ -30,6 +30,12 @@ Or you can run a specific program by providing its path as an argument:
 npm start -- path/to/program.js
 ```
 
+## Deploy on Hostinger
+
+Quickly deploy using Hostinger with a 1-click installation
+
+[![Deploy on Hostinger](https://assets.hostinger.com/vps/deploy.svg)](https://www.hostinger.com/vps/docker-hosting?compose_url=https://github.com/witheve/Eve/)
+
 ## Integrating Eve into an existing project
 
 You can get Eve as an npm package
